@@ -1,0 +1,23 @@
+.header {
+	margin-top: 5px;
+	background-color: #252424;
+	padding: 5px;
+	text-align: center;
+	margin-bottom: 15px;
+	box-shadow: 0 4px 10px rgb(231, 153, 153);
+}
+
+.header h3 {
+	margin: 0;
+	font-size: 20px;
+	color: #f9f6f6;
+	font-family: 'Poppins', sans-serif;
+}
+
+.header span {
+	display: block;
+	margin-top: 5px;
+	font-size: 14px;
+	color: #f6f1f1;
+	font-family: 'Courier New', monospace;
+}
